@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/gnarracci/classified/issues"
   },
-  "homepage": "https://github.com/gnarracci/classified#readme"
+  "homepage": "https://github.com/gnarracci/classified#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "request": "^2.88.2"
+  }
 }
